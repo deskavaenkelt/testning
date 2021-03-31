@@ -1,2 +1,4 @@
+# Ändra filnamnt till "hemlig.txt" och lägg in dina uppgifter
+
 username: "Ditt användarnamen"
 Password: "Ditt lösenord"
